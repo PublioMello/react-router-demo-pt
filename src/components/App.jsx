@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import Dashboard from './Dashboard/Dashboard';
 import Reviews from './Reviews/Reviews';
-import Review from './Reviews/Review';
+import Review from './Review/Review';
 import Header from './Header/Header';
 import AboutUs from './AboutUs/AboutUs';
 import AboutMe from './AboutMe/AboutMe';
